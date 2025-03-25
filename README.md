@@ -1,3 +1,4 @@
+https://oreobiscuit.gitbook.io/introduction/mains/learn-the-basics/hacking-books
 Information_Security_Books
  150本信息安全方面的书籍书籍（持续更新）
 
